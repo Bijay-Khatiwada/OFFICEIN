@@ -1,0 +1,9 @@
+{"_id":{"$oid":"6623c77798c061113e4d8de3"},"name":"Sadman Ifthi","age":"26","email":"employee2@gmail.com","position":"marketing director"}
+{"_id":{"$oid":"6623c77798c061113e4d8de4"},"name":"Ram Bhat","age":24,"email":"employee4@gmail.com","position":"IT support"}
+{"_id":{"$oid":"6637c5330fdcae675f89a464"},"name":"saurab","email":"srv@mac.com","position":"ceo","age":"20"}
+{"_id":{"$oid":"66381fe2eef1c4bc896c6173"},"name":"Anshu varma","email":"anshu@gmail.com","position":"Pilot","age":"36"}
+{"_id":{"$oid":"6638b6bd5f5acfa9694185b0"},"name":"Aman","email":"aman.abc.com","position":"Managing Director","age":45}
+{"_id":{"$oid":"6638bc6c5f5acfa9694185b1"},"name":"Talha","email":"talha.rap.com","position":"Marketing Assistant","age":29}
+{"_id":{"$oid":"6638c0755f5acfa9694185b2"},"name":"Talha","email":"talha.rap.com","position":"Social Media Manager","age":29}
+{"_id":{"$oid":"6638c0ab5f5acfa9694185b3"},"name":"Talha","email":"talha.rap.com","position":"Social Media Manager","age":29}
+{"_id":{"$oid":"6638c0ab5f5acfa9694185b4"},"name":"Talha","email":"talha.rap.com","position":"Social Media Manager","age":29}
